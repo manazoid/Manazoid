@@ -1,5 +1,5 @@
 Hi there! 👋
 
-- 👀 I’m interested in full stack Webdev
-- 🌱 I’m currently learning Golang and React JS, PHP
+- 👀 I’m interested in webdev and devops
+- 🌱 I’m currently learning Docker, Golang and React JS
 - 📫 How to reach me uralkir@gmail.com
